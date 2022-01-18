@@ -6,7 +6,7 @@ But alas, with increasing Multi-Factor coverage and defensive countermeasures li
 
 ![slow-password-sprays](https://user-images.githubusercontent.com/20261699/149404528-8c89f989-299a-4bd0-831c-c16c908a9f86.png)
 
-As pentesters we've been forced to dial back the intensity of our password sprays so that they take hours or days to finish. And even when we find a valid credential, it sometimes doesn't lead anywhere thanks to security policies like MFA. Overall, it's a similar upward trend to what's happening in the phishing space, which is a whole different blog post. But I digress.
+As pentesters, we've been forced to dial back the intensity of our password sprays so that they take hours or days to finish. And even when we find a valid credential, it sometimes doesn't lead anywhere thanks to security policies like MFA. Overall, it's a similar upward trend to what's happening in the phishing space, which is a whole different blog post. But I digress.
 
 I suppose that since we work in cybersecurity we should be happy about these changes since it means better security for organizations. Afterall the goal of our industry is to make hackers' jobs harder. But since we're hackers and it's our job to hack stuff, it's hard to sit idly by and let our favorite passtime of password spraying go the way of the dodo.
 
